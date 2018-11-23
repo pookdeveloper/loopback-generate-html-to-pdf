@@ -1,6 +1,6 @@
 # loopback-generate-html-to-pdf
-## Generate pdf by html (jsreport) in loopback 3
-
+## Tags: Generate pdf by html (jsreport) in loopback 3
+## Tags: lookback download pdf
 
 ## You need to put this code in server.js:
 
