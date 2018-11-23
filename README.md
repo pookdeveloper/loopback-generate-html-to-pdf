@@ -4,14 +4,14 @@ Generate pdf by html (jsreport) in loopback 3
 
 ## You need to put this code in server.js:
 
-````
+````javascript
 const jsreport = require('jsreport');
 jsreport().init();
 ````
 
 The file server.js looks like:
 
-````
+````javascript
 'use strict';
 
 var loopback = require('loopback');
@@ -65,7 +65,7 @@ boot(app, __dirname, function (err) {
 
 
 ## Then create a custom method in your model.
-````
+````javascript
 'use strict';
 
 module.exports = function (Personas) {
