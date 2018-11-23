@@ -1,5 +1,5 @@
 # loopback-generate-html-to-pdf
-Generate pdf by html (jsreport) in loopback 3
+## Generate pdf by html (jsreport) in loopback 3
 
 
 ## You need to put this code in server.js:
@@ -65,6 +65,7 @@ boot(app, __dirname, function (err) {
 
 
 ## Then create a custom method in your model.
+### see the note (// Can use this for donwload PDF and not open directly in browser) for donwload pdf and not open in browser
 ````javascript
 'use strict';
 
@@ -113,6 +114,6 @@ module.exports = function (Personas) {
 
 };
 ````
-see the note (// Can use this for donwload PDF and not open directly in browser) for donwload pdf and not open in browser
+
 
 
