@@ -1,0 +1,111 @@
+2018-11-25T14:28:00.775Z - info: Initializing jsreport@2.2.0 in development mode using configuration file: none
+2018-11-25T14:28:00.776Z - info: Searching for available extensions in /Users/davidgarcia/Desktop/loopback/loopback-html-to-pdf/
+2018-11-25T14:28:00.780Z - info: Extensions location cache doesn't contain entry yet, crawling
+2018-11-25T14:28:01.240Z - info: Found 31 extensions
+2018-11-25T14:28:01.252Z - debug: Writing extension locations cache to /var/folders/rj/fz_d6f0d74d72wt3jrcbzfwh0000gn/T/jsreport/core/locations.json
+2018-11-25T14:28:01.253Z - debug: Discovered 31 extensions
+2018-11-25T14:28:01.293Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2018-11-25T14:28:01.298Z - info: Using extension handlebars
+2018-11-25T14:28:01.302Z - info: Using extension import-export
+2018-11-25T14:28:01.441Z - info: Using extension templates
+2018-11-25T14:28:01.445Z - info: Using extension jsrender
+2018-11-25T14:28:01.446Z - info: Using extension authentication
+2018-11-25T14:28:01.570Z - debug: Extension authentication was disabled
+2018-11-25T14:28:01.570Z - info: Using extension freeze
+2018-11-25T14:28:01.572Z - info: Using extension cli
+2018-11-25T14:28:01.572Z - info: Using extension express
+2018-11-25T14:28:01.675Z - info: Using extension debug
+2018-11-25T14:28:01.676Z - info: Using extension tags
+2018-11-25T14:28:01.680Z - info: Using extension data
+2018-11-25T14:28:01.681Z - info: Using extension fs-store
+2018-11-25T14:28:01.911Z - debug: Extension fs-store was disabled
+2018-11-25T14:28:01.911Z - info: Using extension authorization
+2018-11-25T14:28:01.914Z - debug: Extension authorization was disabled
+2018-11-25T14:28:01.914Z - info: Using extension html-to-xlsx
+2018-11-25T14:28:02.071Z - info: html-to-xlsx detected chrome as available html engine
+2018-11-25T14:28:02.072Z - info: html-to-xlsx detected phantom as available html engine
+2018-11-25T14:28:02.072Z - info: Using extension child-templates
+2018-11-25T14:28:02.109Z - info: Using extension browser-client
+2018-11-25T14:28:02.111Z - info: Using extension chrome-pdf
+2018-11-25T14:28:02.116Z - info: Using extension pdf-utils
+2018-11-25T14:28:02.117Z - info: Using extension version-control
+2018-11-25T14:28:02.141Z - info: Using extension reports
+2018-11-25T14:28:02.169Z - info: Using extension text
+2018-11-25T14:28:02.170Z - info: Using extension base
+2018-11-25T14:28:02.171Z - info: Using extension studio
+2018-11-25T14:28:02.212Z - info: Using extension licensing
+2018-11-25T14:28:02.280Z - info: Using extension scripts
+2018-11-25T14:28:02.309Z - info: Using extension assets
+2018-11-25T14:28:02.355Z - info: Using extension scheduling
+2018-11-25T14:28:02.402Z - info: Using extension xlsx
+2018-11-25T14:28:02.569Z - info: Using extension sample-template
+2018-11-25T14:28:02.598Z - debug: Creating samples is disabled
+2018-11-25T14:28:02.598Z - info: Using extension resources
+2018-11-25T14:28:02.622Z - info: Using extension public-templates
+2018-11-25T14:28:02.625Z - debug: Extension public-templates was disabled
+2018-11-25T14:28:02.658Z - info: Creating default express app.
+2018-11-25T14:28:02.678Z - info: jsreport server successfully started on http port: 5488
+2018-11-25T14:28:02.680Z - info: Verifying license key free
+2018-11-25T14:28:02.681Z - info: Using free license
+2018-11-25T14:28:02.682Z - info: reporter initialized
+2018-11-25T14:29:31.231Z - info: Initializing jsreport@2.2.0 in development mode using configuration file: none
+2018-11-25T14:29:31.232Z - info: Searching for available extensions in /Users/davidgarcia/Desktop/loopback/loopback-html-to-pdf/
+2018-11-25T14:29:31.245Z - info: Extensions location cache contains up to date information, skipping crawling in /Users/davidgarcia/Desktop/loopback/loopback-html-to-pdf/
+2018-11-25T14:29:31.250Z - info: Found 31 extensions
+2018-11-25T14:29:31.274Z - debug: Writing extension locations cache to /var/folders/rj/fz_d6f0d74d72wt3jrcbzfwh0000gn/T/jsreport/core/locations.json
+2018-11-25T14:29:31.275Z - debug: Discovered 31 extensions
+2018-11-25T14:29:31.312Z - info: Setting process based strategy for rendering. Please visit http://jsreport.net/learn/configuration for information how to get more performance.
+2018-11-25T14:29:31.316Z - info: Using extension handlebars
+2018-11-25T14:29:31.321Z - info: Using extension import-export
+2018-11-25T14:29:31.483Z - info: Using extension templates
+2018-11-25T14:29:31.488Z - info: Using extension jsrender
+2018-11-25T14:29:31.489Z - info: Using extension authentication
+2018-11-25T14:29:31.635Z - debug: Extension authentication was disabled
+2018-11-25T14:29:31.635Z - info: Using extension freeze
+2018-11-25T14:29:31.637Z - info: Using extension cli
+2018-11-25T14:29:31.638Z - info: Using extension express
+2018-11-25T14:29:31.768Z - info: Using extension debug
+2018-11-25T14:29:31.770Z - info: Using extension tags
+2018-11-25T14:29:31.773Z - info: Using extension data
+2018-11-25T14:29:31.775Z - info: Using extension fs-store
+2018-11-25T14:29:32.052Z - debug: Extension fs-store was disabled
+2018-11-25T14:29:32.052Z - info: Using extension authorization
+2018-11-25T14:29:32.054Z - debug: Extension authorization was disabled
+2018-11-25T14:29:32.054Z - info: Using extension html-to-xlsx
+2018-11-25T14:29:32.214Z - info: html-to-xlsx detected chrome as available html engine
+2018-11-25T14:29:32.215Z - info: html-to-xlsx detected phantom as available html engine
+2018-11-25T14:29:32.215Z - info: Using extension child-templates
+2018-11-25T14:29:32.246Z - info: Using extension browser-client
+2018-11-25T14:29:32.248Z - info: Using extension chrome-pdf
+2018-11-25T14:29:32.252Z - info: Using extension pdf-utils
+2018-11-25T14:29:32.254Z - info: Using extension version-control
+2018-11-25T14:29:32.277Z - info: Using extension reports
+2018-11-25T14:29:32.305Z - info: Using extension text
+2018-11-25T14:29:32.306Z - info: Using extension base
+2018-11-25T14:29:32.307Z - info: Using extension studio
+2018-11-25T14:29:32.346Z - info: Using extension licensing
+2018-11-25T14:29:32.428Z - info: Using extension scripts
+2018-11-25T14:29:32.457Z - info: Using extension assets
+2018-11-25T14:29:32.495Z - info: Using extension scheduling
+2018-11-25T14:29:32.539Z - info: Using extension xlsx
+2018-11-25T14:29:32.710Z - info: Using extension sample-template
+2018-11-25T14:29:32.743Z - debug: Creating samples is disabled
+2018-11-25T14:29:32.743Z - info: Using extension resources
+2018-11-25T14:29:32.773Z - info: Using extension public-templates
+2018-11-25T14:29:32.776Z - debug: Extension public-templates was disabled
+2018-11-25T14:29:32.810Z - info: Creating default express app.
+2018-11-25T14:29:32.856Z - info: jsreport server successfully started on http port: 5488
+2018-11-25T14:29:32.875Z - info: Verifying license key free
+2018-11-25T14:29:32.876Z - info: Using free license
+2018-11-25T14:29:32.877Z - info: reporter initialized
+2018-11-25T14:30:52.213Z - info: Starting rendering request 1 (user: null)
+2018-11-25T14:30:52.215Z - info: Rendering anonymous template { recipe: chrome-pdf, engine: handlebars }
+2018-11-25T14:30:52.215Z - debug: Inline data specified.
+2018-11-25T14:30:52.216Z - debug: Resources not defined for this template.
+2018-11-25T14:30:52.225Z - debug: Base url not specified, skipping its injection.
+2018-11-25T14:30:52.225Z - debug: Rendering engine handlebars
+2018-11-25T14:30:52.423Z - debug: Compiled template not found in the cache, compiling
+2018-11-25T14:30:52.424Z - debug: Executing recipe chrome-pdf
+2018-11-25T14:30:53.634Z - debug: Running chrome with params {"margin":{}}
+2018-11-25T14:30:53.810Z - debug: Skipping storing report.
+2018-11-25T14:30:53.815Z - info: Rendering request 1 finished in 1602 ms
