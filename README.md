@@ -117,3 +117,11 @@ module.exports = function (Personas) {
 
 
 
+I upload a demo project:
+
+run fisrt: 
+````terminal
+npm install
+````
+
+Then acces to http://localhost:3000/api/mymodels/generatePdf
